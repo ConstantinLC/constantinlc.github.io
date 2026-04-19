@@ -6,7 +6,7 @@ subtitle: PhD Student in AI for Science at Technical University of Munich (TUM)
 
 profile:
   align: right
-  image: photo.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Technical University of Munich</p>
